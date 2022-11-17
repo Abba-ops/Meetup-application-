@@ -1,0 +1,38 @@
+{
+    "meetups": [{
+            "title": "Google NYC Tech Talks",
+            "description": "totam sunt libero molestiae reiciendis nihil ex ullam minus maxime alias voluptatum tempora neque itaque assumenda nemo nam dolore, dicta praesentium iusto, accusantium",
+            "address": "Robert Robertson, 1234 NW Bobcat Lane, St. Robert, MO 65584-5678.",
+            "image": "https://images.pexels.com/photos/378570/pexels-photo-378570.jpeg?auto=compress&cs=tinysrgb&w=1600",
+            "id": 1
+        },
+        {
+            "title": "Career / Business",
+            "description": "totam sunt libero molestiae reiciendis nihil ex ullam minus maxime alias voluptatum tempora neque itaque assumenda nemo nam dolore, dicta praesentium iusto, accusantium",
+            "address": "Iris Watson P.O.Box 283 8562 Fusce Rd.Frederick Nebraska 20620(372) 587 - 2335",
+            "image": "https://images.pexels.com/photos/773471/pexels-photo-773471.jpeg?auto=compress&cs=tinysrgb&w=1600",
+            "id": 2
+        },
+        {
+            "title": "Tech groups",
+            "description": "totam sunt libero molestiae reiciendis nihil ex ullam minus maxime alias voluptatum tempora neque itaque assumenda nemo nam dolore, dicta praesentium iusto, accusantium",
+            "address": "Kyla Olsen Ap #651-8679 Sodales Av. Tamuning PA 10855 (654) 393-5734",
+            "image": "https://images.pexels.com/photos/97906/pexels-photo-97906.jpeg?auto=compress&cs=tinysrgb&w=1600",
+            "id": 3
+        },
+        {
+            "title": "20 and 30 Somethings Chicago",
+            "description": "totam sunt libero molestiae reiciendis nihil ex ullam minus maxime alias voluptatum tempora neque itaque assumenda nemo nam dolore, dicta praesentium iusto, accusantium",
+            "address": "Hiroko Potter P.O. Box 887 2508 Dolor. Av. Muskegon KY 12482 (314) 244-6306",
+            "image": "https://images.pexels.com/photos/92248/pexels-photo-92248.jpeg?auto=compress&cs=tinysrgb&w=1600",
+            "id": 4
+        },
+        {
+            "title": "Book Clubs",
+            "description": "totam sunt libero molestiae reiciendis nihil ex ullam minus maxime alias voluptatum tempora neque itaque assumenda nemo nam dolore, dicta praesentium iusto, accusantium",
+            "address": "Lawrence Moreno 935-9940 Tortor. Street Santa Rosa MN 98804 (684) 579-1879",
+            "image": "https://images.pexels.com/photos/302769/pexels-photo-302769.jpeg?auto=compress&cs=tinysrgb&w=1600",
+            "id": 5
+        }
+    ]
+}

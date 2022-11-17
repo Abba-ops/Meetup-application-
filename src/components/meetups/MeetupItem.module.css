@@ -1,0 +1,46 @@
+.item {
+    margin: 1rem 0;
+    max-height: 500px;
+}
+
+.image {
+    width: 100%;
+    height: 15rem;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.image img {
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.content {
+    text-align: center;
+    padding: 1rem;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.actions {
+    text-align: center;
+}
+
+.actions button {
+    color: white;
+    background: #3a86ff;
+    height: 40px;
+    width: 120px;
+    border-radius: 20px;
+    border: 1px ridge;
+    cursor: pointer;
+    font-weight: 900;
+    box-shadow: 6px 6px 6px #cbced1, -6px -6px 6px white;
+    transition: all .5s ease;
+}
+
+.actions button:hover,
+.actions button:active {
+    box-shadow: none;
+}
